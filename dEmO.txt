@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trang web của tôi</title>
+    <style>
+      /* CSS của trang web */
+      h1 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Trang chủ của tôi</h1>
+    <p>Chào mừng đến với trang web của tôi!</p>
+  </body>
+</html>
+
+
+/* CSS của trang web */
+h1 {
+  color: blue;
+}
